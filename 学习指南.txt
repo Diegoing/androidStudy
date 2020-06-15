@@ -1,0 +1,9 @@
+1.ok    eventbus  glide
+2.一些原理性的也会问，比如ams相关，wms相关，zygote启动相关
+3.并发和jvm的，ams
+4.网络：基本原理都要理解，握手，挥手，tcp/udp，拥塞控制，流量控制，http/https
+5.算法：数组，链表，树（一般二叉，堆和图不要求），二分查找，快排，归并。 
+6.lrucache比较高频
+7.头条这个一轮就问的特别广，还深，操作系统，linux，C framework，jvm，linux进程和内存相关的也问的多
+
+算法、网络、jvm、并发、java、android、opengl、ndk
